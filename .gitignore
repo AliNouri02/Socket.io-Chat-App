@@ -1,3 +1,1 @@
-//Put this in your .gitignore file
-//Ignore all Node Module Folders Recursively
-**node_modules
+node_modules
